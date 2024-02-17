@@ -8,7 +8,7 @@ This project is powered by MongoDB Atlas. The shared version of MongoDB Atlas is
 Deploy your own MongoDB cluster. MongoDB Atlas is recommended.
 
 ## Step 2
-Add your MongoDB URI in the src/main/resource/.env
+Add your MongoDB URI in the `src/main/resource/.env`
 
 ## Step 3
 Then change the name of file `.env.example` to `.env`
